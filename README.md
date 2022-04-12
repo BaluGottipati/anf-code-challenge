@@ -23,7 +23,6 @@ A form has the following fields: First Name, Last Name, Age, Country and a Submi
 1. Please refer to `exercises/Exercise-1` folder and deploy `Exercise-1.zip` onto your `AEM 6.5.0`
 2. Please make use of skeleton code in `custombutton.js` to handle the submit button click and call `UserServlet.java` to perform the required validations.
 
-
 ## Exercise 2: News Feed Component
 
 Every news feed item displays the following attributes:
@@ -69,3 +68,11 @@ Fetch the first 10 pages under a given path `/content/anf-code-challenge/us/en` 
 
 ### Notes:
 1. Please refer to `exercises/Exercise-3` folder and deploy `Exercise-3.zip` onto your `AEM 6.5.0`
+
+## Exercise 4: Saving a property on the page creation
+
+When a page is created, a property is saved at the page level.
+
+### Acceptance Criteria:
+1. Create a page under `/content/anf-code-challenge/us/en`.
+2. As soon as the page is created, a property `pageCreated: {Boolean}true` should be saved on it.
