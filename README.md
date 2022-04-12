@@ -45,7 +45,7 @@ Every news feed item displays the following attributes:
 ![](images/Exercise-2_2.png)
 </div>
 
-###Acceptance Criteria:
+### Acceptance Criteria:
 
 1.	Create news feed component following Adobe’s best practices.
 2.	Read the news data under `/var/commerce/products/anf-code-challenge/newsData` and display it in the component.
