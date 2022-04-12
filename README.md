@@ -73,7 +73,7 @@ Fetch the first 10 pages under a given path `/content/anf-code-challenge/us/en` 
 1. Please refer to `exercises/Exercise-3` folder and deploy `Exercise-3.zip` onto your `AEM 6.5.0`
 
 
-## Exercise 4: Saving a property on the page creation
+## Exercise 4: Saving a property on page creation
 
 When a page is created, a property is saved at the page level.
 
